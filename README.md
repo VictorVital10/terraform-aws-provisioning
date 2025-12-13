@@ -1,1 +1,1 @@
-## Creating network resources on AWS with Terraform: VPC, subnets, route tables, security groups and EC2.
+## Criando recursos de redes na AWS com Terraform: VPC, subnets, route tables, security groups e EC2.

@@ -1,1 +1,1 @@
-## Criando recursos de redes na AWS com Terraform: VPC, subnets, route tables, security groups e EC2.
+## Infraestrutura como Código com Terraform e AWS: provisionando recursos como VPC, Security Groups e Rules, uma instância EC2 Linux com Key Pair SSH e a instalação de um servidor web Nginx, com foco na automação completa do ambiente e no versionamento do código com Git e GitHub.

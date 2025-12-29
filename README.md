@@ -63,6 +63,38 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 
 ---
 
+## 🖼️ Demonstração
+
+#### Organização dos arquivos e diretórios e saída do comando `terraform plan -out="tfplan.out"`, mostrando o plano de ação criado pelo próprio Terraform
+![Files and Directories](images/tfplan.png)
+
+---
+
+#### Saída dos comandos `terraform apply` e `terraform state list`, mostrando quantos e quais recursos foram criados
+![Resources Created](images/resources.png)
+
+---
+
+#### Instância EC2 em execução
+![EC2 Running](images/ec2.png)
+
+---
+
+#### VPC devidamente criada
+![VPC Created](images/vpc.png)
+
+---
+
+#### Servidor web Nginx instalado na instância e acessível através do navegador
+![Nginx Running](images/nginx.png)
+
+---
+
+#### Saída do comando `terraform destroy`, mostrando quantos e quais recursos foram destruídos
+![Destroyed Resources](images/destroy.png)
+
+---
+
 ## ⚡Tecnologias Utilizadas:
 
 - **AWS** – Provedor de nuvem utilizado para provisionamento da infraestrutura.

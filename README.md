@@ -71,12 +71,12 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 ---
 
 #### Saída dos comandos `terraform apply` e `terraform state list`, mostrando quantos e quais recursos foram criados
-![Resources Created](images/resources.png)
+![Resources Created](Images/resources.png)
 
 ---
 
 #### Instância EC2 em execução
-![EC2 Running](images/ec2.png)
+![EC2 Running](Images/ec2.png)
 
 ---
 
@@ -91,7 +91,7 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 ---
 
 #### Saída do comando `terraform destroy`, mostrando quantos e quais recursos foram destruídos
-![Destroyed Resources](images/destroy.png)
+![Destroyed Resources](Images/destroy.png)
 
 ---
 

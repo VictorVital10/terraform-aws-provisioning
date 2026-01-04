@@ -66,7 +66,7 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 ## 🖼️ Demonstração
 
 #### Organização dos arquivos e diretórios e saída do comando `terraform plan -out="tfplan.out"`, mostrando o plano de ação criado pelo próprio Terraform
-![Files and Directories](images/tfplan.png)
+![Files and Directories](Images/Final_Setup/1.png)
 
 ---
 
@@ -80,13 +80,13 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 
 ---
 
-#### VPC devidamente criada
-![VPC Created](images/vpc.png)
+#### VPC e Security Group devidamente criados
+![VPC Created](Images/Final_Setup/3.png)
 
 ---
 
 #### Servidor web Nginx instalado na instância e acessível através do navegador
-![Nginx Running](images/nginx.png)
+![Nginx Running](Images/Final_Setup/2.png)
 
 ---
 

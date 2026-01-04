@@ -70,7 +70,7 @@ resource "aws_security_group_rule" "allow-all-outbound" {
   from_port         = "0"
   to_port           = "0"
   protocol          = "-1"
-  description = "Allow all outbound traffic"
+  description       = "Allow all outbound traffic"
   cidr_blocks       = ["0.0.0.0/0"]
   security_group_id = aws_security_group.my-sg.id
 }

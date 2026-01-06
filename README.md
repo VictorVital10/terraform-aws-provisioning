@@ -106,9 +106,9 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 
 ---
 
-## 📎 Link para o Post no LinkedIn
+## 🔗 Link para o Post no LinkedIn
 
-👉 [Acessar publicação]() 
+👉 [Acessar publicação](https://www.linkedin.com/posts/victorvitall_aws-terraform-linux-activity-7414267488680493056-xRGA) 
 
 ---
 
@@ -116,6 +116,6 @@ A separação dos arquivos segue uma prática clássica e eficiente, facilitando
 
 **Victor Araujo Vital**  
 
-📌 LinkedIn: [https://www.linkedin.com/in/victorvitall/](https://www.linkedin.com/in/victorvitall/)
+👉 LinkedIn: [https://www.linkedin.com/in/victorvitall/](https://www.linkedin.com/in/victorvitall/)
 
 ---
